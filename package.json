@@ -1,0 +1,20 @@
+{
+  "name": "gradient-background-generator",
+  "version": "2.0.0",
+  "description": "Gradient Lab - Live animated WebGL gradient background generator with 20+ shader modes, presets, live canvas controls, and 4K image/video exports.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gradient",
+    "background-generator",
+    "webgl",
+    "shaders",
+    "gradient-lab"
+  ],
+  "author": "Gradient Lab",
+  "license": "ISC"
+}
+
